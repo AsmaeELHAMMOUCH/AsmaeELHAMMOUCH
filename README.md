@@ -82,5 +82,17 @@ I specialize in:
 - 💼 LinkedIn: https://www.linkedin.com/in/asmae-el-hammouch-293687191/  
 
 ---
+## 📸 Screenshots
+HR Simulator
+### 🔹 Menu
+![Menu](./menu.png)
 
+### 🔹 Menu Active
+![Menu Active](./menu-active.png)
+
+### 🔹 Organigram
+![Organigram](./organigram.png)
+
+### 🔹 Prediction
+![Prediction](./prediction.png)
 ⭐ Always building real-world solutions and improving system performance
