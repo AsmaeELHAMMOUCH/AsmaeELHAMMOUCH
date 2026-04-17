@@ -1,6 +1,6 @@
-# Hi 👋 I'm Asmae
-
-💻 Full Stack Developer (React, FastAPI, SQL Server)  
+# Hi 👋 I'm Asmae  
+💻 Full Stack Developer | React • FastAPI • SQL Server  
+🚀 Building enterprise systems (HR • Logistics • ERP integrations)
 🚀 3+ years of experience building scalable enterprise applications  
 📍 Based in Morocco  
 
