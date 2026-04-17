@@ -84,15 +84,35 @@ I specialize in:
 ---
 ## 📸 Screenshots
 HR Simulator
-### 🔹 Menu
-![Menu](./menu.png)
+## 📸 Screenshots
 
-### 🔹 Menu Active
-![Menu Active](./menu-active.png)
+### 🏠 Accueil
+![Accueil](./Accueil.PNG)
 
-### 🔹 Organigram
-![Organigram](./organigram.png)
+### 📋 Menu
+![Menu](./Menu.PNG)
 
-### 🔹 Prediction
-![Prediction](./prediction.png)
+### 🔘 Menu Active
+![Menu Active](./MenuAct.PNG)
+
+### 📊 Prévision
+![Prévision](./PFREVISION.PNG)
+
+### 🗂 Catégorie
+![Catégorie](./categ.PNG)
+
+### 💰 Chiffrage
+![Chiffrage](./chiffrage.PNG)
+
+### 🧩 Organigramme
+![Organigramme](./organigramme.PNG)
+
+### 📈 Résultat 1
+![Résultat 1](./resultat1.PNG)
+
+### 📈 Résultat 2
+![Résultat 2](./resultat2.PNG)
+
+### 📅 Saison
+![Saison](./saison.PNG)
 ⭐ Always building real-world solutions and improving system performance
